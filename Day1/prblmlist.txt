@@ -1,0 +1,5 @@
+1. prime numbers
+2. odd or even
+3. palindrome
+4. factorial
+5. Amstrong
