@@ -1,0 +1,5 @@
+Roots of quadratic equation
+Ascii value of a chareactrer
+calculate age from date
+find largest among three numbers
+sum of all natural numbers
