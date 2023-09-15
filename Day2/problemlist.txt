@@ -1,0 +1,5 @@
+leap year
+Reverse a number
+find GCD
+find LCM
+Display fibonacci series
