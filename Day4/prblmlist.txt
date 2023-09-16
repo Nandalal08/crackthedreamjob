@@ -1,0 +1,9 @@
+today we are dealing with pattern problems. 
+
+1. half pyramid using stars
+2. half pyramid using number
+3. half pyramid usig number as column
+4. half pyramid using alphabets.
+5. square pattern
+6. hollow 
+7. left angled triangle
