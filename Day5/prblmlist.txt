@@ -1,0 +1,6 @@
+1> Accept a number check wther is starts with 9 and has 3 one's in it.
+2> given an array. find the sum of array.
+>3 find largest number in an array
+>4 Check if pair with given Sum exists in Array (Two Sum)
+>5  find the majority element using mooore voting algo. 
+
