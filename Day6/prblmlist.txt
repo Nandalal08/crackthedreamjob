@@ -1,0 +1,5 @@
+1. find the number that occurs odd number of times
+2. largest subarray sum problem(kadane algo)
+3  Given an array find the missing number in the array . 
+4. find median of two sorted arrays
+5. prgm to find reverse of an array
