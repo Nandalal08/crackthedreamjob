@@ -1,0 +1,5 @@
+1.  LEADERS IN ARRAY 
+2.  find minimum distance btw two numbers
+3.  finding subaaray with given sum in an array 
+4. check whether given string is palidrome
+5. diamond star pattern
